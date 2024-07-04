@@ -6,5 +6,8 @@ body{padding-bottom: 800px;}
 footer>p,button{display: inline; margin-left: 15px;}
 header>nav>ul>li{ display: inline; margin: 50px;}
 .imam7>form{margin-bottom: 30px;}label{display: block;}label{margin-bottom:10px ;}
+  
+ table{border-collapse: collapse; }
+ td{border: 1px solid black;padding: 5px 20px;}
 
 
