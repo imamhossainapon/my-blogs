@@ -4,10 +4,12 @@ span{margin: 0px 10px; } header>ul>li{ display:inline; margin:50px;}
 h5{text-align: center;} figcaption{margin-left: 80px;}
 body{padding-bottom: 800px;}
 footer>p,button{display: inline; margin-left: 15px;}
-header>nav>ul>li{ display: inline; margin: 50px;}
+header>.apon1>ul>li{ display: inline; margin: 50px;}
 .imam7>form{margin-bottom: 30px;}label{display: block;}label{margin-bottom:10px ;}
   
  table{border-collapse: collapse; }
  td{border: 1px solid black;padding: 5px 20px;}
-
+.apon>ul {display:flex;}li{ margin-left:50px ; list-style: none;}
+.apon>li>a{text-decoration: none;}
+.apon>li:hover{background-color: blue;}
 
